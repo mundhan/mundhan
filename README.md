@@ -1,6 +1,6 @@
 ## 👋
 
-![Image](https://github.com/user-attachments/assets/4ad07922-44e0-4775-a216-06f3cefc23f4)
+<img src = "https://github.com/user-attachments/assets/4ad07922-44e0-4775-a216-06f3cefc23f4" height="150"/>
 
 * LLM Engineer, Indie Hacker
 * Language: 🇰🇷🇺🇸 (🌏 Open to global collaboration)
